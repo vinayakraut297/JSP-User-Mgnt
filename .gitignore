@@ -1,0 +1,93 @@
+# Ignore log files
+*.log
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore Java JAR and WAR files
+*.jar
+*.war
+
+# Ignore IntelliJ project files
+.idea/
+*.iml
+*.iws
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+
+# Ignore NetBeans project files
+nbproject/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
+# Ignore environment variables files
+.env
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Maven build directory
+target/
+
+# Ignore Gradle build directories
+.gradle/
+build/
+
+# Ignore Yarn lock files
+yarn.lock
+
+# Ignore npm debug log
+npm-debug.log
+
+# Ignore generated documentation
+docs/
+
+# Ignore database files
+*.sqlite3
+*.db
+
+# Ignore generated package-lock files
+package-lock.json
+
+# Ignore generated binary files
+*.exe
+*.dll
+*.so
+*.o
+*.out
+
+# Ignore git-ignored files backup
+.gitignore~
